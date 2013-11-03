@@ -5,6 +5,11 @@ Go-DataStructs
 
 Implemented Queue using Ciruclar Doubly Linked List. Need to add Error checking and returning
 
-Next implement Stack with list, and min heap with array. 
+Implemented Min Heap with array. Need to add error checking
+
+TODO:
+
+Graph structs, Stack
+
 
 
