@@ -9,7 +9,7 @@ Implemented Min Heap with array. Need to add error checking
 
 TODO:
 
-Graph structs, Stack
+Graph structs, Stack, BFS,DFS
 
 
 
